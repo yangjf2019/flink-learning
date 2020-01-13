@@ -37,7 +37,6 @@ object DeviceWarningStreaming {
   def main(args: Array[String]): Unit = {
 
     val env = StreamExecutionEnvironment.getExecutionEnvironment
-
     val properties = new Properties()
     val topic="device_alert_beijing"
     properties.setProperty("bootstrap.servers", "localhost:9092")
