@@ -1,0 +1,12 @@
+# ignore files and dir  flink
+.idea/*
+packconfig/*
+bin/*
+data/*
+project/*
+META-INF/*
+out/*
+target/*
+*.iml
+logs/*
+test/*
