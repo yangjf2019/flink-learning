@@ -24,6 +24,7 @@ import org.apache.flink.api.common.serialization.SimpleStringSchema;
  */
 
 public class DySimpleStringSchema extends SimpleStringSchema {
+
     private static final long serialVersionUID = 5348469005882366764L;
 
     // ------------------------------------------------------------------------

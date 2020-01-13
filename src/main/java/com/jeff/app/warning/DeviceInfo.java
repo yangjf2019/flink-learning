@@ -21,6 +21,7 @@ import java.io.Serializable;
  * Data is priceless! Accidentally deleted the consequences!
  */
 public class DeviceInfo implements Serializable {
+
     private static final long serialVersionUID = -8981968540607338358L;
     private Long timestamp;
     private Integer deviceId;
